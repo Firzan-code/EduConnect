@@ -1,16 +1,32 @@
-# projek_uts
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🖼️ **App Preview**
+| Splash Page | Home Page | Study Page |
+|--------------|------------|-------------|
+| ![Splash](assets/screenshots/splash.png) | ![Home](assets/screenshots/home.png) | ![Study](assets/screenshots/study.png) |
 
-This project is a starting point for a Flutter application.
+> 📸 *Screenshot ini dapat diganti dengan hasil implementasi dari aplikasi kamu.*
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 **Main Features**
+✨ **SplashPage**  
+Menampilkan animasi logo dengan efek *elastic scale* menggunakan `AnimationController` dan *Hero transition*.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧑‍💻 **HomePage**  
+- Menampilkan data pengguna dari API dummy (`jsonplaceholder.typicode.com`).  
+- Menyediakan grid menu interaktif (*Kaldik*, *Presensi*, *Nilai*, dll).  
+- Dilengkapi tombol **Refresh** untuk memperbarui data.  
+
+📊 **StudyPage**  
+- Menampilkan informasi hasil studi (IP Semester, IPK, SKS, dan Nilai Akhir).  
+- Simulasi tombol **Download File** untuk pengalaman realistis.  
+
+---
+
+## ⚙️ **Installation & Run Guide**
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/username/e-learning-demo.git
+cd e-learning-demo
