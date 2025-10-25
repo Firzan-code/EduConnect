@@ -25,8 +25,3 @@ Menampilkan animasi logo dengan efek *elastic scale* menggunakan `AnimationContr
 
 ---
 
-## ⚙️ **Installation & Run Guide**
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/username/e-learning-demo.git
-cd e-learning-demo
