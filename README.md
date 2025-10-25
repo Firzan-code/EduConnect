@@ -4,7 +4,7 @@
 ## 🖼️ **App Preview**
 | Splash Page | Home Page | Study Page |
 |--------------|------------|-------------|
-| ![Splash](assets/splash.png) | ![Home](assets/home.png) | ![Study](assets/study.png) |
+| ![Splash](assets/splash.png) | ![Home](assets/home.png) | ![Study](assets/education.png) |
 
 > 📸 *Screenshot ini dapat diganti dengan hasil implementasi dari aplikasi kamu.*
 
