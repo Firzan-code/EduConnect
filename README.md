@@ -6,8 +6,6 @@
 |--------------|------------|-------------|
 | ![Splash](assets/splash.png) | ![Home](assets/home.png) | ![Study](assets/education.png) |
 
-> 📸 *Screenshot ini dapat diganti dengan hasil implementasi dari aplikasi kamu.*
-
 ---
 
 ## 📱 **Main Features**
